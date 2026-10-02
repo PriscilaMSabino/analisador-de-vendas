@@ -1,0 +1,11 @@
+data,cliente,produto,categoria,quantidade,valor_unitario
+2026-09-01,Ana,Notebook,Eletrônicos,1,3500
+2026-09-02,João,Mouse,Eletrônicos,2,80
+2026-09-03,Maria,Cadeira,Móveis,1,650
+2026-09-04,Carlos,Teclado,Eletrônicos,1,150
+2026-09-05,Ana,Monitor,Eletrônicos,2,900
+2026-09-06,João,Cadeira,Móveis,2,650
+2026-09-07,Marina,Notebook,Eletrônicos,1,3500
+2026-09-08,Carlos,Mouse,Eletrônicos,3,80
+2026-09-09,Maria,Escrivaninha,Móveis,1,850
+2026-09-10,Ana,Teclado,Eletrônicos,2,150
